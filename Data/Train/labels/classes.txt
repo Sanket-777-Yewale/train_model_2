@@ -1,0 +1,7 @@
+Airplane
+Bottle
+Car
+Fan
+Pen
+Phone
+cable
